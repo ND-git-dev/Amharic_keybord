@@ -14,6 +14,11 @@ This project provides a simple way to type in Amharic on Android devices.
 - JDK 8 or higher
 - Android SDK (API level 21+ recommended)
 
+## 📱 Screenshot
+
+![Amharic Keyboard Screenshot](amh_key.jpg)
+
+
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
